@@ -2,11 +2,12 @@
 
 # Hi there, I'm Saidu Bundu-Kamara 👋
 
-### Systems Engineer | Backend, Blockchain & Cloud Infrastructure
+### Software Engineer | Backend, Blockchain & Real-time Systems
 
 📍 Freetown, Sierra Leone | 💼 Software Engineer @ Christex Foundation
 
 [![Email](https://img.shields.io/badge/Email-bundukamarasaidu%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bundukamarasaidu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saidubundukamara-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saidubundukamara)
 [![GitHub](https://img.shields.io/badge/GitHub-saidubundukamara-181717?style=flat&logo=github)](https://github.com/saidubundukamara)
 [![Phone](https://img.shields.io/badge/Phone-%2B232%2078%20077%20127-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+23278077127)
 
@@ -16,7 +17,18 @@
 
 ## 👨‍💻 About Me
 
-Systems Engineer specializing in Backend, Blockchain, and Cloud Infrastructure with hands-on experience building diverse platforms spanning fintech, healthcare, and government systems from API design through production deployment. Currently leading backend development at Christex Foundation while contributing to PeekTower HQ's Criminal Record Management System. Proficient in Docker, Kubernetes, CI/CD pipelines, and AWS, with expertise in developing secure, scalable solutions including payment processing systems, medical crowdfunding platforms, and law enforcement data management frameworks. Also a prompt engineer applying AI to developer tools and financial products. Focused on building user-centric systems with social impact.
+Backend and blockchain engineer who takes products from the first API to production. I've built and shipped fintech wallets, crowdfunding, and a ride-hailing platform, plus a law-enforcement digital public good that's now in pilot. I'm strongest in backend architecture, payment integrations, and real-time systems, and I'm comfortable dropping into Flutter, Next.js, or SvelteKit when a build needs it. Right now I'm moving toward microservices with Kafka and wiring LLMs into developer tools and financial products. I also mentor new developers and run cohorts that bring beginners into tech.
+
+## 💼 Experience
+
+**Software Engineer** — Christex Foundation *(Mar 2024 – Present)*
+Build internal tools and government-facing products across fintech, crowdfunding, and public-sector systems. Lead Learn2Earn (a UNICEF & MoCTI bounty platform), built Byn2 and its Solana layer, and run developer cohorts that onboard beginners into tech.
+
+**Web Developer** — EasyBet *(Feb 2023 – Feb 2024)*
+Cut API response times on high-traffic betting platforms, led third-party integrations and infrastructure audits, and set coding standards for the team.
+
+**Web Developer** — MediaOne Centre (Star TV) *(Aug 2019 – Jan 2023)*
+Built and maintained the company website and the backend behind live event streaming, keeping real-time streams stable during broadcasts.
 
 ## 🛠️ Tech Stack
 
@@ -29,9 +41,10 @@ Systems Engineer specializing in Backend, Blockchain, and Cloud Infrastructure w
 ### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 
 ### Blockchain
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
@@ -42,13 +55,13 @@ Systems Engineer specializing in Backend, Blockchain, and Cloud Infrastructure w
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### Databases & ORMs
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -57,66 +70,63 @@ Systems Engineer specializing in Backend, Blockchain, and Cloud Infrastructure w
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF4438?style=flat&logo=redis&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
 
 ## 🚀 What I'm Currently Working On
 
-- 🏗️ Leading backend development for **Byn2**, a fintech platform with B2B dashboard, mobile app, and WhatsApp bot
-- 🌐 Contributing to **Pipeline**, an open-source Digital Public Goods platform for Sierra Leone
-- 🚨 Developing **Criminal Record Management System (CRMS)** framework at PeekTower HQ
-- 🏥 Building **IB4ME**, a crowdfunding application for medical campaigns
-- 📚 Pursuing **AWS Certified Cloud Practitioner** certification
-- 🤖 Exploring AI integration in developer tools and financial products
-- 👨‍🏫 Mentoring junior developers and hosting workshops on backend and system design
+- 🏗️ Leading **Learn2Earn**, a UNICEF & MoCTI bounty platform connecting Sierra Leonean freelancers with paid work
+- 💸 Building **Byn2 & Mocha** — free money transfers with a Solana layer and a WhatsApp stablecoin on/off-ramp
+- 🚗 Shipping **Marto**, a ride-hailing and car rental platform for Sierra Leone
+- ⚖️ Developing **OpenJustice** (formerly CRMS), an offline-first DPG for law enforcement, now piloting in Sierra Leone
+- 🔀 Moving toward microservices with Kafka
+- 🤖 Wiring LLMs into developer tools and financial products
+- 👨‍🏫 Running developer cohorts and mentoring beginners into tech
 
 ## 💼 Featured Projects
 
-### 🚨 [Criminal Record Management System (CRMS)](https://github.com/PeekTower-HQ/crms) - Pan-African Digital Public Good
-Offline-first criminal record management system for law enforcement agencies | [Live Site](https://crms-inky.vercel.app/)
-- Architecting **Pan-African Digital Public Good** for law enforcement agencies (Pilot: Sierra Leone)
-- Built **offline-first PWA** with IndexedDB sync for unreliable network environments
-- Implemented **role-based access control (RBAC)** with 6 permission levels and comprehensive audit logging
-- Designed secure **PostgreSQL database** with AES-256 encryption for sensitive data (addresses, phones, biometrics)
-- Integrated **AWS S3** for evidence storage with multi-resolution image processing and integrity hashing
-- Built **USSD and WhatsApp interfaces** for citizen background checks and officer queries
-- **Technologies:** Next.js 16, TypeScript, Prisma, PostgreSQL, NextAuth, AWS S3, Upstash Redis, Dexie, PWA
+### 💸 [Byn2 & Mocha](https://github.com/saidubundukamara) - Fintech & Stablecoin On/Off-Ramp
+Free money transfers with a blockchain layer and a WhatsApp stablecoin on/off-ramp
+- Built **Byn2** to send and receive money for free across mobile, web, and a B2B dashboard, then added a **Solana Web3** settlement layer
+- Used that layer to power **Mocha**, a WhatsApp chatbot where users on/off-ramp stablecoins in chat, with KYC checks and transaction logging
+- **Technologies:** Express.js, Solana Web3.js, Node.js, WhatsApp Business API
 
-### 🏥 [IB4ME](https://github.com/saidubundukamara/ib4me) - Medical Crowdfunding Platform
-Crowdfunding application for medical campaigns helping people access healthcare funding | [Live Site](https://ib4me.org)
-- Developed full-stack platform enabling individuals to create and manage medical fundraising campaigns
-- Implemented **secure payment processing** with third-party payment gateway integration
-- Built responsive web interface with **real-time campaign tracking** and donation notifications
-- Designed **admin dashboard** for campaign moderation and compliance monitoring
-- Integrated donor management system with automated receipts and thank-you notifications
-- **Technologies:** Next.js, TypeScript, Node.js, MongoDB, Payment APIs, Vercel
+### 🚗 [Marto](https://getmarto.com) - Ride-Hailing & Car Rental
+Ride-hailing and car rental platform for Sierra Leone
+- Built the **NestJS** backend, **Next.js** admin panel, and a **Flutter** app for riders and drivers, handling both rides and multi-day rentals
+- Implemented real-time driver matching with **Redis geospatial queries**, live tracking over **Socket.IO**, surge pricing, and Monime wallet/cash payments
+- Provisioned **AWS with Terraform** (EC2, VPC, Secrets Manager) and automated deploys with GitHub Actions and PM2
+- **Technologies:** NestJS, Flutter, Next.js, PostgreSQL, Prisma, Redis, Socket.IO, BullMQ, AWS, Terraform, Monime, Google Maps
 
-### 🌍 [Pipeline](https://github.com/saidubundukamara) - Open Source DPG Platform
+### 🎓 [Learn2Earn](https://learn2earn.christex.foundation) - UNICEF & MoCTI Bounty Platform
+A marketplace connecting Sierra Leonean freelancers with paid work
+- Lead development of a platform where companies post bounties and freelancers deliver paid work, built to prepare them for global platforms like Upwork
+- Built a **multi-tenant setup** (public platform plus subdomain admin panel) with email-verified auth, a skills taxonomy, and Monime payments
+- **Technologies:** SvelteKit 2, Svelte 5, TypeScript, Prisma, PostgreSQL, Better Auth, Monime, Vercel
+
+### 🏥 [IB4ME](https://ib4me.org) - Crowdfunding Platform
+General-purpose crowdfunding for Sierra Leone — education, community, health, and emergencies
+- Built a full-stack platform where individuals and organizations create campaigns and publish instantly, with verification badges and admin moderation
+- Integrated **Monime** for mobile money and card payments with webhook verification and a double-entry ledger, plus WhatsApp, SMS, and email notifications
+- **Technologies:** Next.js 15, React 19, TypeScript, MongoDB, Monime, Cloudinary, Sentry, Vercel
+
+### 🌍 [Pipeline](https://launch.publicgood.dev) - Open Source DPG Platform
 Supporting Digital Public Goods (DPGs) in Sierra Leone
-- Collaborated on building the platform using **Svelte** and deployed **Vercel serverless functions**
-- Integrated **AI-powered scoring** to assess DPG compliance and status automatically
-- Strengthened API security with middleware auth and rate-limiting
-- Enhanced system architecture and CI/CD for better scalability and reliability
-- Improved API response time and reduced operational overhead
-- **Technologies:** Svelte, Node.js, Vercel, AI/ML
+- Helped build the platform in **Svelte** with Vercel serverless functions, adding AI-powered scoring to assess DPG compliance automatically
+- Strengthened API security with middleware auth and rate limiting, and improved CI/CD
+- **Technologies:** Svelte, Vercel, Node.js
 
-### 🏦 [Byn2](https://github.com/saidubundukamara) - Fintech Platform
-A modern platform for secure fund transfers across mobile, web, and WhatsApp
-- Built backend services using **Express.js** and **Solana Web3** for secure, real-time fund transfers
-- Designed an **on/off-ramp system** for crypto ↔ fiat conversions with transaction logging and KYC compliance
-- Integrated WhatsApp bot to extend access to unbanked users
-- Developed B2B dashboard and mobile app with multi-platform support
-- **Technologies:** Express.js, Solana, MongoDB, Docker, Kubernetes
-
-### 💬 [Mocha](https://github.com/saidubundukamara) - Chat-Based Money Transfer
-Conversational money transfer app combining chat and wallet features
-- Collaborated on backend architecture for **real-time messaging** and peer-to-peer transfers
-- Implemented wallet balance logic, transaction queuing, and **socket-based communication**
-- Integrated chat UI with secure fund transfer workflows and real-time notifications
-- Built authentication system and secure API endpoints
-- **Technologies:** Express.js, WebSockets, MongoDB, Socket.io
+### ⚖️ [OpenJustice](https://github.com/PeekTower-HQ/crms) - Law Enforcement DPG
+Pan-African digital public good for law enforcement, piloting in Sierra Leone (formerly CRMS)
+- Architected an **offline-first PWA** with IndexedDB and background sync for officers in low-connectivity areas
+- Built **RBAC** (6 levels), **AES-256-GCM** encryption, and **SHA-256** audit chains for sensitive records
+- Added **USSD** (Africa's Talking) and **WhatsApp** (Whapi) interfaces, GeoCrime analytics with crime heatmaps, and inter-agency sharing with API keys and webhooks
+- **Technologies:** NestJS, Next.js 16, TypeScript, PostgreSQL, Prisma, Redis/BullMQ, AWS S3, Service Workers, IndexedDB
 
 ## 📊 GitHub Statistics
 
@@ -134,8 +144,9 @@ Conversational money transfer app combining chat and wallet features
 
 ## 🎓 Education & Certifications
 
-**Bachelor of Science in Information Technology** (Mar 2021 - Dec 2024)
+**BSc Information Technology** (Mar 2021 - Dec 2024)
 *Limkokwing University of Creative Technology*
+Relevant coursework: Process Design, Project Management, Systems Analysis, Database Design, Web Development.
 
 **Certifications:**
 - ✅ AI Fluency: Framework & Foundations - [Verify](https://verify.skilljar.com/c/bb6jvua79k5b)
@@ -153,6 +164,7 @@ Conversational money transfer app combining chat and wallet features
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-bundukamarasaidu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bundukamarasaidu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saidubundukamara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saidubundukamara)
 [![GitHub](https://img.shields.io/badge/GitHub-saidubundukamara-181717?style=for-the-badge&logo=github)](https://github.com/saidubundukamara)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B232%2078%20077%20127-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/23278077127)
 
@@ -162,11 +174,11 @@ Conversational money transfer app combining chat and wallet features
 
 <div align="center">
 
-### 💡 Open to collaborations on fintech, healthcare, government systems, blockchain, and cloud infrastructure projects
+### 💡 Open to collaborations on fintech, crowdfunding, government systems, blockchain, and real-time platforms
 
-*Passionate about building scalable, secure, and user-centric systems with social impact | Mentor to junior developers | Contributor to open-source tooling across fintech, healthcare, and public sector*
+*Languages: English, Krio | Mentor to junior developers and bootcamp students | Speaker at tech meetups and engineering workshops*
 
-**Fun facts:** When I'm not coding, you'll find me hiking, gaming, swimming, or exploring the latest AI tools! 🏔️ 🎮 🏊‍♂️ 🤖
+**Fun facts:** When I'm not coding, you'll find me hiking, gaming, swimming, surfing, blogging about tech, or poking at the latest AI tools! 🏔️ 🎮 🏊‍♂️ 🤖
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saidubundukamara&color=blue&style=flat)
 
